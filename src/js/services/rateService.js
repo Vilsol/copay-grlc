@@ -44,7 +44,7 @@ RateService.prototype._fetchCurrencies = function() {
 
   var backoffSeconds = 5;
   var updateFrequencySeconds = 5 * 60;
-  var rateServiceUrl = 'https://gws.garlicinsight.com/gws/api/v1/fiatrates/USD/';
+  var rateServiceUrl = 'https://gws.garli.co.in/api/v1/fiatrates/USD/';
 
   var retrieve = function() {
     // console.log('Fetching exchange rates');

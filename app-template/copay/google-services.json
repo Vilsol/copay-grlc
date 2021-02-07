@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "428318762951",
-    "firebase_url": "https://garlic-wallet.firebaseio.com",
-    "project_id": "garlic-wallet",
-    "storage_bucket": "garlic-wallet.appspot.com"
+    "project_number": "788459898105",
+    "firebase_url": "https://garlicorewalletservice.firebaseio.com",
+    "project_id": "garlicorewalletservice",
+    "storage_bucket": "garlicorewalletservice.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:428318762951:android:d36e5877ace4da86",
+        "mobilesdk_app_id": "1:788459898105:android:3d29d08a9898a4a1",
         "android_client_info": {
-          "package_name": "com.garlicinsight.garlicwallet"
+          "package_name": "in.co.garli.garlicwallet"
         }
       },
       "oauth_client": [
         {
-          "client_id": "428318762951-at4sej0si8gqfo5cen03fgehu4lcebki.apps.googleusercontent.com",
+          "client_id": "788459898105-4qfhrntt1mhtut0emmoc6sc3uit905be.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBeZnOm9AsdXBllxdiMvnCKCP3G1NPWjYM"
+          "current_key": "AIzaSyCxN2LjW0EzB_USWAmj_9FO935QzamcMbA"
         }
       ],
       "services": {

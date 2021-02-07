@@ -34,7 +34,7 @@ bwcModule.provider("bwcService", function() {
 
       //note opts use `bwsurl` all lowercase;
       var bwc = new Client({
-        baseUrl: opts.bwsurl || 'https://gws.garlicinsight.com/gws/api',
+        baseUrl: opts.bwsurl || 'https://gws.garli.co.in/api',
         verbose: opts.verbose,
         timeout: 100000,
         transports: ['polling'],

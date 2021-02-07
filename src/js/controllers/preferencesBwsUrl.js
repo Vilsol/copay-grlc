@@ -25,7 +25,7 @@ angular.module('copayApp.controllers').controller('preferencesBwsUrlController',
       switch ($scope.bwsurl.value) {
         case 'prod':
         case 'production':
-          bws = 'https://gws.garlicinsight.com/gws/api'
+          bws = 'https://gws.garli.co.in/api'
           break;
         case 'sta':
         case 'staging':

@@ -12,27 +12,27 @@ angular.module('copayApp.services').factory('configService', function(storageSer
 
     // Bitcore wallet service URL
     bws: {
-      url: 'https://gws.garlicinsight.com/gws/api',
+      url: 'https://gws.garli.co.in/api',
     },
 
     download: {
       copay: {
-        url: 'https://play.google.com/store/apps/details?id=com.garlicinsight.garlicwallet'
+        url: 'https://play.google.com/store/apps/details?id=in.co.garli.garlicwallet'
       },
       bitpay: {
-        url: 'https://play.google.com/store/apps/details?id=com.garlicinsight.garlicwallet'
+        url: 'https://play.google.com/store/apps/details?id=in.co.garli.garlicwallet'
       }
     },
 
     rateApp: {
       copay: {
         ios: 'https://garlicoin.io',
-        android: 'https://play.google.com/store/apps/details?id=com.garlicinsight.garlicwallet',
+        android: 'https://play.google.com/store/apps/details?id=in.co.garli.garlicwallet',
         wp: ''
       },
       bitpay: {
         ios: 'https://garlicoin.io',
-        android: 'https://play.google.com/store/apps/details?id=com.garlicinsight.garlicwallet',
+        android: 'https://play.google.com/store/apps/details?id=in.co.garli.garlicwallet',
         wp: ''
       }
     },
@@ -69,7 +69,7 @@ angular.module('copayApp.services').factory('configService', function(storageSer
     },
 
     rates: {
-      url: 'https://garlicinsight.com:443/api/rates',
+      url: 'https://insight.garli.co.in:443/api/rates',
     },
 
     release: {

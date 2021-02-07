@@ -1,9 +1,9 @@
 {
-  "packageName": "GarlicWallet",
+  "packageName": "GarlicoinWallet",
   "packageDescription": "Garlicoin Wallet",
-  "packageNameId": "com.garlicinsight.garlicwallet",
+  "packageNameId": "in.co.garli.garlicwallet",
   "statusBarColor": "#192c3a",
-  "userVisibleName": "GarlicWallet",
+  "userVisibleName": "Garlicoin Wallet",
   "purposeLine": "Garlicoin Wallet",
   "bundleName": "garlicwallet",
   "appUri": "garlicwallet",
@@ -23,8 +23,8 @@
   "windowsAppId": "804636ee-b017-4cad-8719-e58ac97ffa5c",
   "pushSenderId": "428318762951",
   "description": "A Secure Garlicoin Wallet",
-  "version": "3.2.8",
-  "androidVersion": "320008",
+  "version": "3.2.10",
+  "androidVersion": "320009",
   "_extraCSS": null,
   "_enabledExtensions": {
     "coinbase": false,
